@@ -1,4 +1,4 @@
-# Finance
+# Calculator
 
 This is a study purpose project.
 An web calculator with that do basic operations.
